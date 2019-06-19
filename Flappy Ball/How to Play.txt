@@ -1,0 +1,4 @@
+Goal:
+Navigate your ball through a series of pipes.
+
+SPACE - Jump

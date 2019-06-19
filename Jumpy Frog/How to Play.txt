@@ -1,0 +1,5 @@
+Goal:
+Navigate your 'frog' to the other side of the 'pond' by moving across the 'logs'. Avoid jumping into water.
+
+WASD - Change direction.
+SPACE - Move forward in the direction you're facing.

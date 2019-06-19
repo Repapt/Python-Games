@@ -1,0 +1,6 @@
+Goal:
+Collect all of the falling letters with the white box. Avoid the numbers.
+
+A/LEFT ARROW - Move left
+D/RIGHT ARROW - Move right
+SPACE - Use boost to speed yourself up. Limited use; boost bar is shown on the left.
